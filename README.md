@@ -4,8 +4,8 @@
 💬 Ask me about
         <ul>
           <li>Full Stack Web Development</li>
-          <li>Machine & Deep Learning</li>
-          <li>Computer Vision</li>
+          <li>Machine & Deep Learning applications </li>
+          <li>Computer Vision applications </li>
           <li>Software-Hardware Integration</li>
           <li>Systems/Software Architecture</li> 
           <li>CI/CD Infrastructure</li> 
