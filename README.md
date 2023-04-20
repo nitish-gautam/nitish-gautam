@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nitish Gautam</h1>
+<h1 align="center">Hi 👋, I'm Nitish </h1>
 <h4 align="center">Professional Full Stack developer with extensive experience in software architecture and product development.</h4>
 
 💬 Ask me about
